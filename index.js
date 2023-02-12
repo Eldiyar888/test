@@ -10,5 +10,5 @@ function sizeOfStr(str) {
     return str.length
 }
 
-const res2 = sizeOfStr('privet kak dela!')
+const res2 = sizeOfStr('privet kak world!')
 console.log(res2)
