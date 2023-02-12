@@ -12,3 +12,11 @@ function sizeOfStr(str) {
 
 const res2 = sizeOfStr('ppppp kak ty!')
 console.log(res2)
+
+const a = false;
+if (a) {
+    console.log(`this ${a}`); 
+} else {
+    console.log('this false')
+}
+
